@@ -1,34 +1,41 @@
 {
-  "name": "nodebb-plugin-spoilers",
-  "version": "0.1.3",
-  "description": "Spoilers for NodeBB",
+  "name": "nodebb-plugin-align-center",
+  "version": "0.1.0",
+  "description": "Centering for NodeBB",
   "main": "library.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/psychobunny/nodebb-plugin-spoilers"
+    "url": "https://github.com/Stonebound/nodebb-plugin-align-center"
   },
   "keywords": [
     "nodebb",
     "plugin",
-    "spoiler",
-    "text"
+    "align",
+    "text",
+    "center"
   ],
   "author": {
     "name": "psychobunny",
     "email": "psycho.bunny@hotmail.com"
   },
+  "contributors": [
+    {
+      "name": "phit",
+      "email": "phit@hush.com"
+    }
+  ],
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/psychobunny/nodebb-plugin-spoilers/issues"
+    "url": "https://github.com/psychobunny/nodebb-plugin-align-center/issues"
   },
   "nbbpm": {
     "compatibility": "^0.6.0"
   },
   "readme": "",
   "readmeFilename": "README.md",
-  "_id": "nodebb-plugin-spoilers@0.0.1",
-  "_from": "nodebb-plugin-spoilers@~0.0.1"
+  "_id": "nodebb-plugin-align-center@0.0.1",
+  "_from": "nodebb-plugin-align-center@~0.0.1"
 }

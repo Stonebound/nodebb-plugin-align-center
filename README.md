@@ -1,11 +1,11 @@
-# Spoilers for NodeBB
+# Center aligning for NodeBB
 
-Allows you to embed spoilers in NodeBB post content. Just use the following syntax, which is similar to that found on StackExchange.
+Allows you to center in NodeBB post content. Just use the following syntax:
 
 ```
->! spoiler text here
+>-> centered content here <-
 ```
 
 ## Installation
 
-    npm install nodebb-plugin-spoilers
+    npm install Stonebound/nodebb-plugin-align-center

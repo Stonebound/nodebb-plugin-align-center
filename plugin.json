@@ -1,20 +1,11 @@
 {
-	"id": "nodebb-plugin-spoilers",
-	"name": "Spoilers for NodeBB",
-	"description": "Allows you to embed spoilers in NodeBB post content",
-	"url": "https://github.com/psychobunny/nodebb-plugin-spoilers",
+	"id": "nodebb-plugin-align-center",
+	"name": "Centering for NodeBB",
+	"description": "Allows you to center in NodeBB post content.",
+	"url": "https://github.com/Stonebound/nodebb-plugin-align-center",
 	"library": "./library.js",
 	"hooks": [
 		{ "hook": "filter:parse.post", "method": "parse", "priority": 6 },
 		{ "hook": "filter:parse.raw", "method": "parseRaw", "priority": 6 }
-	],
-	"staticDirs": {
-		"static": "./static"
-	},
-	"less": [
-    	"./static/spoilers.less"
-    ],
-    "scripts": [
-		"static/spoilers.js"
 	]
 }
