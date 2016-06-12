@@ -8,4 +8,4 @@ Allows you to center in NodeBB post content. Just use the following syntax:
 
 ## Installation
 
-    npm install Stonebound/nodebb-plugin-align-center
+    npm install nodebb-plugin-align-center
