@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-align-center",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Centering for NodeBB",
   "main": "library.js",
   "scripts": {
@@ -32,7 +32,7 @@
     "url": "https://github.com/psychobunny/nodebb-plugin-align-center/issues"
   },
   "nbbpm": {
-    "compatibility": "^0.6.0"
+    "compatibility": "^0.6.0 - ^1.0.0"
   },
   "readme": "",
   "readmeFilename": "README.md",
