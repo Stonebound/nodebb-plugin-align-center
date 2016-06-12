@@ -32,7 +32,7 @@
     "url": "https://github.com/psychobunny/nodebb-plugin-align-center/issues"
   },
   "nbbpm": {
-    "compatibility": "^0.6.0 - ^1.0.0"
+    "compatibility": "^0.9.0 || ^1.0.0"
   },
   "readme": "",
   "readmeFilename": "README.md",
